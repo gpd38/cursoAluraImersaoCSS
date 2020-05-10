@@ -34,7 +34,7 @@ Não se sabe se as aulas permanecerão por muito tempo no ar, mas enquanto estiv
 - [Fórum de discussão - DiscordApp](https://discordapp.com/invite/yqsH8Yh?utm_campaign=imersao_hipsterscss_confirmacao_de_inscricao&utm_medium=email&utm_source=RD+Station)
 
 ### Links comentados durante as aulas
-- 
+- [Live introdução hipsters](https://youtu.be/iriinRSXvVc)
 - 
 - 
 
