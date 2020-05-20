@@ -1,5 +1,12 @@
 # Curso Alura Imersão Hipsters CSS
 Série de vídeo aulas da alura sobre HTML e CSS durante a quarentena do COVID-19
+Para visualizar como o site está ficando [clique aqui](#)
+
+### Codepen.io
+
+
+### Estrutura do site
+
 
 ### Dias de publicação das aulas
 Aula|Dia
@@ -23,3 +30,23 @@ Aula|Dia
 - [Aula 03: Colunas e linhas](https://youtu.be/mHC1k-18lQI)
 - [Aula 04: Animando tudo](https://youtu.be/FQt4WK0U4pM)
 - [Aula 05: Efeitos visuais](https://youtu.be/LwdXpJPixFo)
+
+### Desafios e Jogos
+
+
+### Links comentados durante as aulas
+
+
+### Fórum (Material/Geral/Dúvidas/Resultado)
+
+
+### Solução dos jogos
+
+
+### Informações sobre os palestrantes/participantes
+
+
+### HashTags
+
+
+Obs.: Para se cadastrar na alura e receber notificações de possíveis novas imersões acesse a url http://caelum.rds.land/receba-um-aviso
