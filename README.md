@@ -6,7 +6,7 @@ Para visualizar como o site está ficando [clique aqui](#)
 
 ### Codepen.io
 
-... Em construção
+[Meu Codepen - gpd38](https://codepen.io/gpd38/pens/public?grid_type=list)
 
 ### Estrutura do site
 
@@ -40,7 +40,54 @@ Aula|Dia
 
 ### Desafios e Jogos
 
-... Em construção
+- Aula 01 
+	- Paulo 
+		- [Publicar site github pages](#)
+		- Aplicar filtros na propriedade background do CSS
+	- Vanessa
+		- [Assistir vídeo - box-model](https://youtu.be/pZrAG27KZSg)
+		- [Assistir vídeo - box-sizing](https://youtu.be/Q33ojlocKc0)
+	- Juliana
+		- Jogo [CSS Diner](http://flukeout.github.io/)
+
+- Aula 02
+	- Paulo
+		- Melhorar visualização do site utilizando viewport
+		- Melhorar as imagens utilizadas
+	- Vanessa
+		- Criar novos html's para os links do portifólio
+	- Juliana
+		- Jogo [Flexbox Froggy](https://flexboxfroggy.com/)
+
+- Aula 03
+	- Paulo
+		- Inserir sua cara no seu site: seus projetos, suas seções, suas imagens
+		- Passar o mouse nas imagens e inserir algum efeito
+	- Juliana
+		- Jogo [Grid Garden](https://cssgridgarden.com/)
+
+- Aula 04
+	- Paulo
+		- Recriar aquele texto de abertura do Star Wars utilizando as ferramentas de animação
+		- Ajustar a posição das âncoras no site
+		- Criar um menu hambúrguer
+	- Vanessa
+		- [Animar um spinner só com CSS, usando o Codepen](#)
+		- Explore as possibilidades das propriedades transition e transform
+		- Criar um background animado com transição de cores
+	- Juliana
+		- Utilizar a ferramenta Bootstrap no seu site ou em outro
+		- Usar os recursos do Icomoon para inserir ícones no seu site
+
+- Aula 05
+	- Paulo
+		- Complete seu site pessoal com suas infos, seus estilos, sua personalidade, seu design.
+	- Vanessa
+		- Use o CSS Doodle para criar suas próprias artes.
+		- Explore como funciona a propriedade background-attachment e use-a em seu site. Obs.: Insira na tag body.
+		- Entenda quando usar CSS Legado com float.
+	- Juliana
+		- Utilizar vetores em SVG em seu site, e aplicar neles os recursos de animação.
 
 ### Links comentados durante as aulas
 
