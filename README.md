@@ -42,11 +42,11 @@ Aula|Dia
 
 - Aula 01 
 	- Paulo 
-		- [Publicar site github pages](#)
+		- Publicar site [github pages](#)
 		- Aplicar filtros na propriedade background do CSS
 	- Vanessa
-		- [Assistir vídeo - box-model](https://youtu.be/pZrAG27KZSg)
-		- [Assistir vídeo - box-sizing](https://youtu.be/Q33ojlocKc0)
+		- Assistir vídeo [box-model](https://youtu.be/pZrAG27KZSg)
+		- Assistir vídeo [box-sizing](https://youtu.be/Q33ojlocKc0)
 	- Juliana
 		- Jogo [CSS Diner](http://flukeout.github.io/)
 
@@ -72,7 +72,7 @@ Aula|Dia
 		- Ajustar a posição das âncoras no site
 		- Criar um menu hambúrguer
 	- Vanessa
-		- [Animar um spinner só com CSS, usando o Codepen](#)
+		- Animar um spinner só com CSS e mostrar no [Codepen](#)
 		- Explore as possibilidades das propriedades transition e transform
 		- Criar um background animado com transição de cores
 	- Juliana
