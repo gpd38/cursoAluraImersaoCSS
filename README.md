@@ -1,14 +1,19 @@
 # Curso Alura Imersão Hipsters CSS
-Série de vídeo aulas da alura sobre HTML e CSS durante a quarentena do COVID-19
+
+Série de vídeo aulas da alura sobre HTML e CSS durante a quarentena do COVID-19.
+
 Para visualizar como o site está ficando [clique aqui](#)
 
 ### Codepen.io
 
+... Em construção
 
 ### Estrutura do site
 
+... Em construção
 
 ### Dias de publicação das aulas
+
 Aula|Dia
 ----|----
 01|11/05/20
@@ -18,6 +23,7 @@ Aula|Dia
 05|15/05/20
 
 ### Links dos materiais no alura
+
 - [Material Aula01 - Página pessoal](https://www.alura.com.br/imersao-css/aula01-css-pagina-pessoal)
 - [Material Aula02 - Sites responsivos](https://www.alura.com.br/imersao-css/aula02-css-pagina-pessoal)
 - [Material Aula03 - Colunas e linhas](https://www.alura.com.br/imersao-css/aula03-grid)
@@ -25,6 +31,7 @@ Aula|Dia
 - [Material Aula05 - Efeitos visuais](https://www.alura.com.br/imersao-css/aula05-efeitos-visuais)
 
 ### Links das vídeo aulas
+
 - [Aula 01: Página pessoal](https://youtu.be/jf_JVto07qg)
 - [Aula 02: Sites responsivos](https://youtu.be/eGezltWKCbE)
 - [Aula 03: Colunas e linhas](https://youtu.be/mHC1k-18lQI)
@@ -33,20 +40,28 @@ Aula|Dia
 
 ### Desafios e Jogos
 
+... Em construção
 
 ### Links comentados durante as aulas
 
+... Em construção
 
 ### Fórum (Material/Geral/Dúvidas/Resultado)
 
+... Em construção
 
 ### Solução dos jogos
 
+... Em construção
 
 ### Informações sobre os palestrantes/participantes
 
+... Em construção
 
 ### HashTags
 
+... Em construção
 
-Obs.: Para se cadastrar na alura e receber notificações de possíveis novas imersões acesse a url http://caelum.rds.land/receba-um-aviso
+### Considerações
+
+OBS.: Para se cadastrar na alura e receber notificações de possíveis novas imersões acesse a url http://caelum.rds.land/receba-um-aviso
