@@ -11,3 +11,8 @@ Aula|Dia
 05|15/05/20
 
 ### Links dos materiais no alura
+- [Material Aula01 - Página pessoal](https://www.alura.com.br/imersao-css/aula01-css-pagina-pessoal)
+- [Material Aula02 - Sites responsivos](https://www.alura.com.br/imersao-css/aula02-css-pagina-pessoal)
+- [Material Aula03 - Colunas e linhas](https://www.alura.com.br/imersao-css/aula03-grid)
+- [Material Aula04 - Animando tudo](https://www.alura.com.br/imersao-css/aula04-animando-tudo)
+- [Material Aula05 - Efeitos visuais](https://www.alura.com.br/imersao-css/aula05-efeitos-visuais)
