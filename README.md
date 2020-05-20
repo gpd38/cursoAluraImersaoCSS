@@ -16,3 +16,5 @@ Aula|Dia
 - [Material Aula03 - Colunas e linhas](https://www.alura.com.br/imersao-css/aula03-grid)
 - [Material Aula04 - Animando tudo](https://www.alura.com.br/imersao-css/aula04-animando-tudo)
 - [Material Aula05 - Efeitos visuais](https://www.alura.com.br/imersao-css/aula05-efeitos-visuais)
+
+### Links das vídeo aulas
