@@ -200,7 +200,20 @@ Aula|Dia
 
 ### Informações sobre os palestrantes/participantes
 
-... Em construção
+Paulo Silveira
+- [Twitter](https://twitter.com/paulo_caelum)
+- [Github](https://github.com/peas)
+- [Linkedin](https://www.linkedin.com/in/paulosilveira/)
+
+Vanessa Tonini
+- [Twitter](https://twitter.com/vanessametonini)
+- [Github](https://github.com/vanessametonini)
+- [Linkedin](https://www.linkedin.com/in/vanessametonini/)
+
+Juliana Amoasei
+- [Twitter](https://twitter.com/aquijuz)
+- [Github](https://github.com/JulianaAmoasei)
+- [Linkedin](https://www.linkedin.com/in/juliana-amoasei)
 
 ### HashTags
 
