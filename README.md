@@ -95,7 +95,7 @@ Aula|Dia
 
 ### Fórum (Material/Geral/Dúvidas/Resultado)
 
-... Em construção
+- [Fórum de discussão - DiscordApp](https://discordapp.com/invite/yqsH8Yh?utm_campaign=imersao_hipsterscss_confirmacao_de_inscricao&utm_medium=email&utm_source=RD+Station)
 
 ### Solução dos jogos
 
