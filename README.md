@@ -97,6 +97,8 @@ Aula|Dia
 
 - [Fórum de discussão - DiscordApp](https://discordapp.com/invite/yqsH8Yh?utm_campaign=imersao_hipsterscss_confirmacao_de_inscricao&utm_medium=email&utm_source=RD+Station)
 
+- Algumas [imagens do fórum](#)
+
 ### Solução dos jogos
 
 - 01: CSS Diner
