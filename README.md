@@ -204,7 +204,7 @@ Aula|Dia
 
 ### HashTags
 
-... Em construção
+#imersaohipsterscss #imersaocss #FiscalDeSite com @AlunaOnline @paulo_caelum @vanessametonini @aquijuz
 
 ### Considerações
 
