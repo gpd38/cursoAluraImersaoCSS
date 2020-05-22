@@ -91,7 +91,33 @@ Aula|Dia
 
 ### Links comentados durante as aulas
 
-... Em construção
+- [Live introdução hipsters](https://youtu.be/iriinRSXvVc)
+- [Box-model e box-shadow no CSS sem segredos](https://youtu.be/pZrAG27KZSg)
+- [Box-sizing no CSS sem segredos](https://youtu.be/Q33ojlocKc0)
+- [GitHub sem linhas de comando](https://youtu.be/vhqTiQdUHfY)
+- [CodePen: o que é e como funciona](https://www.alura.com.br/artigos/codepen-o-que-e-e-como-usar)
+- [Tags do html](https://www.caelum.com.br/apostila-html-css-javascript/introducao-a-html-e-css/#tags-html)
+- [CSS Avançado](https://www.caelum.com.br/apostila-html-css-javascript/css-avancado/#para-saber-mais-especificidade-de-seletores-css)
+- [Lista de cores](https://htmlcolorcodes.com/color-names/)
+- [Controle de versão com Git](https://www.slideshare.net/vanessametonini/controle-de-verso-com-git-167234722)
+- [Guia de unidades no CSS](https://www.alura.com.br/artigos/guia-de-unidades-no-css)
+- [CSS flexBox: um guia visual](https://www.alura.com.br/artigos/css-guia-do-flexbox)
+- [O guia de flexbox em português](https://css-tricks.com/)
+- [CSS grid](https://developer.mozilla.org/pt-BR/docs/Web/CSS/grid)
+- [CSS tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Font Awesome](https://fontawesome.com/)
+- [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+- [Icomoon](https://icomoon.io/)
+- [Ferramenta para animação](http://www.roblaplaca.com/examples/bezierBuilder/)
+- [Exemplo de arte generativa](https://codepen.io/cobra_winfrey/pen/zYvdKPG)
+- [CSS-Doodle](https://css-doodle.com/)
+- [Exemplo 01 - arte generativa](http://tainasimoes.com.br/generative-art/)
+- [Exemplo 02 - arte generativa](https://github.com/tainasimoes/generative-art)
+- [Como usar uma tag no html](https://caniuse.com/)
+- [Propriedade clip-path](https://bennettfeely.com/clippy/)
+- [CSS Masking](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Masking)
+- [Máquina de Turing](https://pt.wikipedia.org/wiki/Turing_completude)
+- [Semântica no HTML5](https://diveintohtml5.com.br/semantics.html#new-elements)
 
 ### Fórum (Material/Geral/Dúvidas/Resultado)
 
