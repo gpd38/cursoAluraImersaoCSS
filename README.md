@@ -2,7 +2,7 @@
 
 Série de vídeo aulas da alura sobre HTML e CSS durante a quarentena do COVID-19.
 
-Para visualizar como o site está ficando [clique aqui](#)
+Para visualizar como o site está ficando [clique aqui](https://gpd38.github.io/cursoAluraImersaoHipstersCSS/)
 
 ### Codepen.io
 
@@ -10,7 +10,24 @@ Para visualizar como o site está ficando [clique aqui](#)
 
 ### Estrutura do site
 
-... Em construção
+```
+site
+├── css
+│   └── estilo.css
+├── img
+|   ├── sobre
+│   |	  └── gpd-avatar.jpg
+|   ├── portfolio
+│   |	  ├── codepen01.jpg
+│   |	  ├── git01.jpg
+│   |	  ├── gitImersaoCSS.jpg
+│   |	  ├── gitQuarentenaDados.jpg
+│   |	  ├── gitQuarentenaDev.jpg
+│   |	  └── udemy.jpg
+|   └── home
+│   	  └── background.jpg
+└── index.html
+```
 
 ### Dias de publicação das aulas
 
@@ -42,7 +59,7 @@ Aula|Dia
 
 - Aula 01 
 	- Paulo 
-		- Publicar site [github pages](#)
+		- Publicar site [github pages](https://gpd38.github.io/cursoAluraImersaoHipstersCSS/)
 		- Aplicar filtros na propriedade background do CSS
 	- Vanessa
 		- Assistir vídeo [box-model](https://youtu.be/pZrAG27KZSg)
@@ -72,7 +89,7 @@ Aula|Dia
 		- Ajustar a posição das âncoras no site
 		- Criar um menu hambúrguer
 	- Vanessa
-		- Animar um spinner só com CSS e mostrar no [Codepen](#)
+		- Animar um spinner só com CSS e mostrar no Codepen
 		- Explore as possibilidades das propriedades transition e transform
 		- Criar um background animado com transição de cores
 	- Juliana
@@ -122,8 +139,6 @@ Aula|Dia
 ### Fórum (Material/Geral/Dúvidas/Resultado)
 
 - [Fórum de discussão - DiscordApp](https://discordapp.com/invite/yqsH8Yh?utm_campaign=imersao_hipsterscss_confirmacao_de_inscricao&utm_medium=email&utm_source=RD+Station)
-
-- Algumas [imagens do fórum](#)
 
 ### Solução dos jogos
 
