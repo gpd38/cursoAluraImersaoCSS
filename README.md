@@ -57,6 +57,8 @@ OBS.: Os html's estão armazenados dentro da pasta [site_imersao_css](#) dentro 
 - [Aula 04: Animando tudo](https://youtu.be/FQt4WK0U4pM)
 - [Aula 05: Efeitos visuais](https://youtu.be/LwdXpJPixFo)
 
+OBS.: Os vídeos do curso não foram inseridos neste projeto por serem muito grandes. [Link alternativo para as vídeo aulas](#).
+
 ### Desafios e Jogos
 
 - Aula 01 
