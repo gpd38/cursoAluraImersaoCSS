@@ -47,6 +47,8 @@ Aula|Dia
 - [Material Aula04 - Animando tudo](https://www.alura.com.br/imersao-css/aula04-animando-tudo)
 - [Material Aula05 - Efeitos visuais](https://www.alura.com.br/imersao-css/aula05-efeitos-visuais)
 
+OBS.: Os html's estão armazenados dentro da pasta [site_imersao_css](#) dentro deste projeto.
+
 ### Links das vídeo aulas
 
 - [Aula 01: Página pessoal](https://youtu.be/jf_JVto07qg)
